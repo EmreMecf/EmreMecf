@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Özel Banner Resmi -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Emre%20Meçf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Emre%20Çiftci&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
   <!-- Dinamik Yazı Animasyonu -->
   <a href="https://git.io/typing-svg">
